@@ -1,4 +1,17 @@
-# Windows image file caches
+# =========================
+# Independent of OS
+# =========================
+
+bower_components
+node_modules
+.sass-cache
+
+
+
+# =========================
+# Windows
+# =========================
+
 Thumbs.db
 ehthumbs.db
 
@@ -14,11 +27,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# =========================
-# Operating System Files
-# =========================
 
-# OSX
+# =========================
+# Mac OS X
 # =========================
 
 .DS_Store
@@ -26,7 +37,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
 
 # Thumbnails
 ._*
