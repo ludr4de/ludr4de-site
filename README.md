@@ -1,7 +1,3 @@
-#### ludr4ade-site
-###### Source code of Luciano Andrade's site
-=============
-
 # Getting Started
 
 ### Requirements
